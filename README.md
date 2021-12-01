@@ -7,6 +7,3 @@
 - Copycat of Le Wagon landing-page in HTML and CSS only
 - Part of the challenges of the Front-End course (Le Wagon Tokyo)
 
-## URL
-[Website](http://ren33000.me/Le-Wagon-landing-page/)
-
